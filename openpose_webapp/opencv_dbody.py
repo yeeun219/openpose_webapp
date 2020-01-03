@@ -83,3 +83,4 @@ def opencv_dbody(path):
         else:
             points.append(None)
         k = k + 1
+    cv2.imwrite(path, image)
