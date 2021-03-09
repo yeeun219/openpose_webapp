@@ -15,7 +15,6 @@ car
 cat
 cell_phone
 chair
-circle
 clock
 cloud
 coffee_cup
@@ -53,14 +52,11 @@ radio
 rainbow
 shorts
 shovel
-smiley_face
 snake
 sock
 spider
 spoon
-square
 star
-stop_sign
 suitcase
 sun
 tennis_racquet
