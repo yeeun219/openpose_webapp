@@ -44,7 +44,6 @@ lollipop
 microphone
 moon
 mountain
-moustache
 mushroom
 pants
 paper_clip
