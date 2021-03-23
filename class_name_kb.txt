@@ -47,7 +47,6 @@ banana
 bowtie
 cactus
 camel
-carrot
 duck
 ear
 hamburger
@@ -56,7 +55,6 @@ helicopter
 mailbox
 rollerskates
 see saw
-snail
 snowman
 stairs
 strawberry
@@ -65,5 +63,4 @@ toe
 toothbrush
 vase
 violin
-watermelon
 windmill
